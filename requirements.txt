@@ -1,0 +1,6 @@
+beautifulsoup4
+fake-useragent
+lxml
+pillow
+requests
+tensorflow-cpu
